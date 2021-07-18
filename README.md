@@ -47,4 +47,7 @@ What I liked the most in my SOC:-
     }
 
     return dp_before[n - 1];
-    }
+ This SOC project helped me to gain a fresh new perspective of writing codes!
+ Earlier it used to be just about getting the required output, but now its also about how much Time the code takes to run and that was a big learning for me.
+ We also learned some advance stuffs like graphs and trees for which I have to practise more to get good at.
+ Overall it was a very cool summer project with a very good Mentor.
